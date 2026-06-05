@@ -1,0 +1,6 @@
+{
+  "name": "ভাবকথা",
+  "description": "একটি আধুনিক বাঙালি সাহিত্য ও দার্শনিক ক্যাপশন রিডিং ও শেয়ারিং প্ল্যাটফর্ম",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
